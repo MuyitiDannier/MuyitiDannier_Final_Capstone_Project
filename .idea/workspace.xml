@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d21341f0-c850-48d7-b1c8-2fac5a4d9fd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/api_tests/CraterApiCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/hooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/ItemsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/NewItemPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SettingsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/DryTestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Items_StepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Login_StepDef.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/BrowserUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigurationReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/configuration.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Items.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2orEhso3SWrg3g602tIszEaGx4a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.DryTestRunner.executor": "Run",
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.CraterApiCustomer.create_a_customer.executor": "Run",
+    "TestNG.CraterApiCustomer.executor": "Run",
+    "TestNG.D:/PrimeTech_Spring_2024/Muyiti_Dannier_Final_Capstone_Project/testng.xml.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/PrimeTech_Spring_2024/Muyiti_Dannier_Final_Capstone_Project",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="DryTestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Muyiti_Dannier_Final_Capstone_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.DryTestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Muyiti_Dannier_Final_Capstone_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CraterApiCustomer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Muyiti_Dannier_Final_Capstone_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api_tests" />
+      <option name="MAIN_CLASS_NAME" value="api_tests.CraterApiCustomer" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CraterApiCustomer.create_a_customer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Muyiti_Dannier_Final_Capstone_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="api_tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="api_tests" />
+      <option name="MAIN_CLASS_NAME" value="api_tests.CraterApiCustomer" />
+      <option name="METHOD_NAME" value="create_a_customer" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/PrimeTech_Spring_2024/Muyiti_Dannier_Final_Capstone_Project/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Muyiti_Dannier_Final_Capstone_Project" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="TestNG.CraterApiCustomer" />
+        <item itemvalue="TestNG.CraterApiCustomer.create_a_customer" />
+        <item itemvalue="TestNG.D:/PrimeTech_Spring_2024/Muyiti_Dannier_Final_Capstone_Project/testng.xml" />
+        <item itemvalue="JUnit.DryTestRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d21341f0-c850-48d7-b1c8-2fac5a4d9fd3" name="Changes" comment="" />
+      <created>1731619418862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731619418862</updated>
+    </task>
+    <servers />
+  </component>
+</project>
